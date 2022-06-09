@@ -1,0 +1,82 @@
+------------------------------------------------------------------------------------
+255;141;0;		menu - BackColor Titulo, Botão fechar, minimizar e menu lateral
+0;0;0;			menu - ForeColor Titulo,
+255;141;0;		menu - backColor botões não selecionado 
+30; 13; 3;		menu - backColor botões selecionado 
+150;150;150;	menu - lblRegsitro foreColor  
+64; 64; 64;		menu - lblVersão forecolor	
+------------------------------------------------------------------------------------
+64; 64; 64;	 	MessageBox/Scaner - Botões forecolor 2
+245;245;245;	MessageBox/Scaner - Botões backColor
+------------------------------------------------------------------------------------
+179;179;179;	Ficha - TabControl BackColor // Geral para todas as Tabs
+255;127;36;		Ficha - Selected arquivo BackColor
+0;128;0;	 	Ficha - Concluinte Cor
+139;35;35;	 	Ficha - Não Concluinte Cor
+------------------------------------------------------------------------------------
+204;204;204;	Grid - BackColor linha Não Selecionado 
+0;0;0;			Grid - Forecolor linha Não Selecionado 
+173;173;173;	Grid - BackColor linha Selecionado
+237;237;237;	Grid - forecolor linha Selecionado 
+255;141;0;		Grid - BackColor Titulo 
+237;237;237;	Grid - Forecolor Titulo 
+245;245;255;  	Grid - backColor
+------------------------------------------------------------------------------------
+255;20;20;	 	Pesquisa - Não Concluinte Cor
+255;127;0;	 	Pesquisa - Deletado Cor
+------------------------------------------------------------------------------------
+255;127;0;		Geral - BackColor Titulo, botão fechar
+0;0;0;			Geral - ForeColor Titulo, botão fechar 
+100;100;100;	Geral - Form background color 
+0;0;0;			Geral - labels foreColor 
+0;0;0; 			Geral - Botões forecolor 
+238;59;59;		Geral - Button Close Mouse Enter
+179;179;179;	Geral - Button Mini Mouse Enter
+245;245;245; 	Geral - Text/Masked Box N Selected BackColor
+64; 64; 64;    	Geral - Text/Masked Box N Selected ForeColor
+0;178;238;  	Geral - Text/Masked Box Selected BackColor
+222;222;222;  	Geral - Text/Masked Box Selected ForeColor
+255;64;64;		Geral - label erro
+
+//Light
+//Nome de todas as variaveis com seus respectivos codigo, na mesma ordem dos codigo acima ^^
+
+-----------------------------Menu
+* 1 - MenuBackTitulo
+* 2 - MenuForetitulo 
+* 3 - backBtnNS 
+* 4 - backBtnS 
+* 5 - ForelblReg 
+* 6 - ForeLblVersaoMenu
+-----------------------------MessageBox/Scaner
+* 8 - ForeBnt2
+* 9 - BackBtn 
+-----------------------------Ficha
+* 11 - BackTab
+* 12 - SelectArqBackColor
+* 13 - FichaConcluCor
+* 14 - FichaNConcluCor
+-----------------------------Grid
+* 15 - GrdBackLineNS 
+* 16 - GrdForeLineNS 
+* 17 - GrdBackLineS 
+* 18 - GrdForeLineS 
+* 19 - GrdBackTitulo 
+* 20 - GrdForeTitulo
+* 21 - GridBackColor
+-----------------------------Pesquisa
+* 23 - PesqNConClu
+* 24 - PesqDel
+-----------------------------Geral
+* 26 - BackTitulo 
+* 27 - ForeTitulo 
+* 28 - BackForm
+* 29 - ForeLbl 
+* 20 - ForeBtn 
+* 31 - BtnCloseEnter
+* 32 - BtnMiniEnter
+* 33 - TxtNSelectBackColor
+* 34 - TxtNSelectForeColor
+* 35 - TxtSelectBackColor
+* 36 - TxtSelectForeColor
+* 37 - ForeLblError

@@ -1,0 +1,1 @@
+﻿select a.nome, a.cpf, c.NomeCurso, m.idPrimario, m.idMatricula as 'pasta' from aluno a join matricula m on m.idAluno = a.idAluno join curso c on c.IdCurso = m.idCurso where a.cpf like '%%' and m.Deletado = 'NAO';

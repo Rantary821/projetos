@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{798B6F5C-3C8C-4CF0-8DC0-86226737FBEC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ArquivoEtec</RootNamespace>
+    <AssemblyName>Arquivo Raphael Brandão</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>D:\EtecRaphaelBrandao\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>https://apelsinti.blob.core.windows.net/etecraphaelbrandao/</InstallUrl>
+    <TargetCulture>pt-BR</TargetCulture>
+    <ProductName>Arquivo Permanente</ProductName>
+    <PublisherName>ApelsinTI</PublisherName>
+    <SuiteName>Apelsin</SuiteName>
+    <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>ArquivoPermenente.htm</WebPage>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>900923ED4296A719093F8A9173B8EC8E3769C9A1</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ArquivoEtec_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ArquivoEtec.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\Imgs\logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Google.Protobuf, Version=3.5.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.5.1\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.WIA">
+      <HintPath>..\..\..\ProjetoSoares\scanner\ScannerDemo\bin\Debug\Interop.WIA.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack">
+      <HintPath>..\packages\WindowsAPICodePack-Core.1.1.2\lib\Microsoft.WindowsAPICodePack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack.Shell">
+      <HintPath>..\packages\WindowsAPICodePack-Shell.1.1.1\lib\Microsoft.WindowsAPICodePack.Shell.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.11\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\CadAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CadAluno.Designer.cs">
+      <DependentUpon>CadAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CadCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CadCurso.Designer.cs">
+      <DependentUpon>CadCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Edit.Designer.cs">
+      <DependentUpon>Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ficha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ficha.Designer.cs">
+      <DependentUpon>Ficha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Pesquisa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Pesquisa.Designer.cs">
+      <DependentUpon>Pesquisa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Program.cs" />
+    <Compile Include="Forms\Arquivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Arquivo.designer.cs">
+      <DependentUpon>Arquivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MessageBoxApel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MessageBoxApel.designer.cs">
+      <DependentUpon>MessageBoxApel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Renomear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Renomear.designer.cs">
+      <DependentUpon>Renomear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classes\Utilidades.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PScanner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PScanner.designer.cs">
+      <DependentUpon>PScanner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Scanner.cs" />
+    <EmbeddedResource Include="Forms\CadAluno.resx">
+      <DependentUpon>CadAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CadCurso.resx">
+      <DependentUpon>CadCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Edit.resx">
+      <DependentUpon>Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ficha.resx">
+      <DependentUpon>Ficha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Pesquisa.resx">
+      <DependentUpon>Pesquisa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Arquivo.resx">
+      <DependentUpon>Arquivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MessageBoxApel.resx">
+      <DependentUpon>MessageBoxApel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Renomear.resx">
+      <DependentUpon>Renomear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PScanner.resx">
+      <DependentUpon>PScanner.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Imgs\unhide-32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Imgs\hide-32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Imgs\Limpar-32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Imgs\cancel-32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Imgs\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Imgs\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Imgs\LogoFinal - 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Imgs\Logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Imgs\minimiza3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Imgs\minimiza4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Imgs\printer-32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Temas\Dark\Cores.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Temas\Light\Cores.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Imgs\cancel2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Imgs\mini.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Imgs\logo.ico" />
+    <None Include="Resources\Imgs\trashCan-32x32.png" />
+    <Content Include="Resources\Loading\Dark-99.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-0.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-1.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-10.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-11.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-12.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-13.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-14.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-15.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-16.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-17.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-18.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-19.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-2.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-20.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-21.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-22.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-23.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-24.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-25.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-26.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-27.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-28.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-29.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-3.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-30.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-31.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-32.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-33.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-34.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-35.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-36.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-37.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-38.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-39.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-4.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-40.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-41.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-42.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-43.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-44.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-45.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-46.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-47.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-48.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-49.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-5.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-50.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-51.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-52.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-53.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-54.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-55.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-56.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-57.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-58.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-59.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-6.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-60.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-61.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-62.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-63.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-64.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-65.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-66.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-67.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-68.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-69.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-7.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-70.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-71.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-72.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-73.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-74.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-75.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-76.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-77.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-78.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-79.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-8.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-80.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-81.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-82.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-83.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-84.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-85.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-86.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-87.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-88.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-89.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-9.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-90.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-91.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-92.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-93.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-94.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-95.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-96.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-97.png" />
+    <EmbeddedResource Include="Resources\Loading\Dark-98.png" />
+    <None Include="Resources\Imgs\Base.png" />
+    <EmbeddedResource Include="Resources\Temas\Light\Config.txt" />
+    <EmbeddedResource Include="Resources\Temas\Dark\Config.txt" />
+    <EmbeddedResource Include="Resources\Updates\Updates.txt" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
