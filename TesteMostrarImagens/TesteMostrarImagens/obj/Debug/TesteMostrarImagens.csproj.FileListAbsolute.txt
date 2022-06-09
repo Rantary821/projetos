@@ -1,0 +1,107 @@
+c:\users\otavi\onedrive\documentos\visual studio 2015\Projects\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.exe.config
+c:\users\otavi\onedrive\documentos\visual studio 2015\Projects\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.exe
+c:\users\otavi\onedrive\documentos\visual studio 2015\Projects\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.pdb
+c:\users\otavi\onedrive\documentos\visual studio 2015\Projects\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\MySql.Data.dll
+c:\users\otavi\onedrive\documentos\visual studio 2015\Projects\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\MySql.Data.xml
+c:\users\otavi\onedrive\documentos\visual studio 2015\Projects\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csprojResolveAssemblyReference.cache
+c:\users\otavi\onedrive\documentos\visual studio 2015\Projects\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Form1.resources
+c:\users\otavi\onedrive\documentos\visual studio 2015\Projects\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Properties.Resources.resources
+c:\users\otavi\onedrive\documentos\visual studio 2015\Projects\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.ZoomIMG.resources
+c:\users\otavi\onedrive\documentos\visual studio 2015\Projects\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csproj.GenerateResource.Cache
+c:\users\otavi\onedrive\documentos\visual studio 2015\Projects\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.exe
+c:\users\otavi\onedrive\documentos\visual studio 2015\Projects\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.pdb
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.exe.config
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.exe
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.pdb
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\MySql.Data.dll
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\MySql.Data.xml
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Arquivo.resources
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.MessageBoxApel.resources
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Properties.Resources.resources
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.ZoomIMG.resources
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csproj.GenerateResource.Cache
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.exe
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.pdb
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csprojResolveAssemblyReference.cache
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Renomear.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.exe.config
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.exe
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.pdb
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.exe.config
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.exe
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.pdb
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\MySql.Data.dll
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\MySql.Data.xml
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csprojResolveAssemblyReference.cache
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Arquivo.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Renomear.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.MessageBoxApel.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Properties.Resources.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.ZoomIMG.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csproj.GenerateResource.cache
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csproj.CoreCompileInputs.cache
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csproj.CopyComplete
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.exe
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.pdb
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.exe.config
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.exe
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.pdb
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csprojResolveAssemblyReference.cache
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Arquivo.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Renomear.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.MessageBoxApel.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Properties.Resources.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.ZoomIMG.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csproj.GenerateResource.Cache
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.exe
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.pdb
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\MySql.Data.dll
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\MySql.Data.xml
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.exe.config
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.exe
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.pdb
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\MySql.Data.dll
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\MySql.Data.xml
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csprojResolveAssemblyReference.cache
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Arquivo.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Renomear.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.MessageBoxApel.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Properties.Resources.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.ZoomIMG.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csproj.GenerateResource.cache
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csproj.CoreCompileInputs.cache
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csproj.CopyComplete
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.exe
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.pdb
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.exe.config
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.exe
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\TesteMostrarImagens.pdb
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\MySql.Data.dll
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\bin\Debug\MySql.Data.xml
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csprojResolveAssemblyReference.cache
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Arquivo.resources
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Renomear.resources
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.MessageBoxApel.resources
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.Properties.Resources.resources
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.ZoomIMG.resources
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csproj.GenerateResource.cache
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csproj.CoreCompileInputs.cache
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.csproj.CopyComplete
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.exe
+C:\Dropbox\Projetos c# - Backup\Antigos\TesteMostrarImagens\TesteMostrarImagens\obj\Debug\TesteMostrarImagens.pdb

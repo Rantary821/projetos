@@ -1,0 +1,57 @@
+c:\users\otavio\documents\visual studio 2015\Projects\LayoutSoares\LayoutSoares\bin\Debug\LayoutSoares.exe.config
+c:\users\otavio\documents\visual studio 2015\Projects\LayoutSoares\LayoutSoares\bin\Debug\LayoutSoares.exe
+c:\users\otavio\documents\visual studio 2015\Projects\LayoutSoares\LayoutSoares\bin\Debug\LayoutSoares.pdb
+c:\users\otavio\documents\visual studio 2015\Projects\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.csprojResolveAssemblyReference.cache
+c:\users\otavio\documents\visual studio 2015\Projects\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.Form1.resources
+c:\users\otavio\documents\visual studio 2015\Projects\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.Properties.Resources.resources
+c:\users\otavio\documents\visual studio 2015\Projects\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.csproj.GenerateResource.Cache
+c:\users\otavio\documents\visual studio 2015\Projects\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.exe
+c:\users\otavio\documents\visual studio 2015\Projects\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.pdb
+c:\users\otavio\documents\visual studio 2015\Projects\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.Form2.resources
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\bin\Debug\LayoutSoares.exe.config
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.exe
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.pdb
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\bin\Debug\LayoutSoares.exe
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\bin\Debug\LayoutSoares.pdb
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\bin\Debug\ScannerDemo.exe
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\bin\Debug\Interop.WIA.dll
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\bin\Debug\ScannerDemo.pdb
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.csprojResolveAssemblyReference.cache
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\obj\Debug\Interop.WIA.dll
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.csproj.ResolveComReference.cache
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.Ficha.resources
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.Pesquisa.resources
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.Properties.Resources.resources
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.csproj.GenerateResource.Cache
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.Menu.resources
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\bin\Debug\LayoutSoares.exe.config
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\obj\Debug\Interop.WIA.dll
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.csproj.ResolveComReference.cache
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.exe
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.pdb
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\bin\Debug\LayoutSoares.exe
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\bin\Debug\LayoutSoares.pdb
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\bin\Debug\ScannerDemo.exe
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\bin\Debug\Interop.WIA.dll
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\bin\Debug\DirectX.Capture.dll
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\bin\Debug\DShowNET.dll
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\bin\Debug\ScannerDemo.pdb
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.csprojResolveAssemblyReference.cache
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.Ficha.resources
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.Menu.resources
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.Pesquisa.resources
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.Properties.Resources.resources
+C:\Users\Otavio\Desktop\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.csproj.GenerateResource.Cache
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\bin\Debug\FileToIconTest.exe
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\bin\Debug\DirectX.Capture.dll
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\bin\Debug\DShowNET.dll
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\bin\Debug\FileToIconTest.pdb
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\LayoutSoares\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\LayoutSoares\LayoutSoares\bin\Debug\LayoutSoares.exe.config
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\LayoutSoares\LayoutSoares\obj\Debug\Interop.WIA.dll
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.csproj.ResolveComReference.cache
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.exe
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\LayoutSoares\LayoutSoares\obj\Debug\LayoutSoares.pdb

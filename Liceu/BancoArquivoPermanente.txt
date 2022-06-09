@@ -1,0 +1,56 @@
+create database arquivopermanente
+
+CREATE TABLE `aluno` (
+  `NomeAluno` varchar(100) NOT NULL,
+  `Rg` varchar(13) NOT NULL,
+  `IdAluno` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `arquivo` (
+  `IdArquivo` int(10) NOT NULL,
+  `DescArquivo` varchar(200) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `curso` (
+  `NomeCurso` varchar(100) NOT NULL,
+  `IdCurso` int(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `matricula` (
+  `AnoMat` int(4) NOT NULL,
+  `Concluinte` varchar(3) NOT NULL,
+  `IdAluno` int(10) NOT NULL,
+  `IdCurso` int(10) NOT NULL,
+  `IdArquivo` int(10) NOT NULL,
+  `NumMatricula` int(10) NOT NULL,
+  `NumPasta` int(20) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `config` (`NomeConfig` varchar(30) NOT NULL, `IdConfig` int(10) NOT NULL) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+ALTER TABLE `aluno`
+  ADD PRIMARY KEY (`IdAluno`);
+
+ALTER TABLE `curso`
+  ADD PRIMARY KEY (`IdCurso`);
+
+ALTER TABLE `matricula`
+  ADD PRIMARY KEY (`NumMatricula`);
+
+ALTER TABLE `config`
+  ADD PRIMARY KEY (`IdConfig`);
+
+
+ALTER TABLE `aluno`
+  MODIFY `IdAluno` int(11) NOT NULL AUTO_INCREMENT;
+
+ALTER TABLE `curso`
+  MODIFY `IdCurso` int(10) NOT NULL AUTO_INCREMENT;
+
+ALTER TABLE `matricula`
+  MODIFY `NumMatricula` int(10) NOT NULL AUTO_INCREMENT;
+
+ALTER TABLE `config` CHANGE `IdConfig` `IdConfig` INT(10) NOT NULL AUTO_INCREMENT;
+
+INSERT INTO `config`(`NomeConfig`) VALUES ("NR");

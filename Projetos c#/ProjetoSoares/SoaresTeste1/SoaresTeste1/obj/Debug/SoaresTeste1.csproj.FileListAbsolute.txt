@@ -1,0 +1,12 @@
+c:\users\otavio\documents\visual studio 2015\Projects\SoaresTeste1\SoaresTeste1\bin\Debug\SoaresTeste1.exe.config
+c:\users\otavio\documents\visual studio 2015\Projects\SoaresTeste1\SoaresTeste1\bin\Debug\SoaresTeste1.exe
+c:\users\otavio\documents\visual studio 2015\Projects\SoaresTeste1\SoaresTeste1\bin\Debug\SoaresTeste1.pdb
+c:\users\otavio\documents\visual studio 2015\Projects\SoaresTeste1\SoaresTeste1\obj\Debug\SoaresTeste1.csprojResolveAssemblyReference.cache
+c:\users\otavio\documents\visual studio 2015\Projects\SoaresTeste1\SoaresTeste1\obj\Debug\SoaresTeste1.Properties.Resources.resources
+c:\users\otavio\documents\visual studio 2015\Projects\SoaresTeste1\SoaresTeste1\obj\Debug\SoaresTeste1.csproj.GenerateResource.Cache
+c:\users\otavio\documents\visual studio 2015\Projects\SoaresTeste1\SoaresTeste1\obj\Debug\SoaresTeste1.exe
+c:\users\otavio\documents\visual studio 2015\Projects\SoaresTeste1\SoaresTeste1\obj\Debug\SoaresTeste1.pdb
+c:\users\otavio\documents\visual studio 2015\Projects\SoaresTeste1\SoaresTeste1\obj\Debug\SoaresTeste1.Ficha.resources
+C:\Users\Otavio\Desktop\Projetos c#\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Debug\SoaresTeste1.exe.config
+C:\Users\Otavio\Desktop\Projetos c#\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Debug\SoaresTeste1.exe
+C:\Users\Otavio\Desktop\Projetos c#\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Debug\SoaresTeste1.pdb

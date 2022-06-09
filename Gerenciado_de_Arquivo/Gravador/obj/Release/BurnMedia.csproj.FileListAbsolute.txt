@@ -1,0 +1,13 @@
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Gravador\bin\Release\BurnMedia.exe.manifest
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Gravador\bin\Release\BurnMedia.application
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Gravador\bin\Release\BurnMedia.exe
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Gravador\bin\Release\BurnMedia.pdb
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Gravador\obj\Release\BurnMedia.csprojResolveAssemblyReference.cache
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Gravador\obj\Release\BurnMedia.Gravar.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Gravador\obj\Release\BurnMedia.Properties.Resources.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Gravador\obj\Release\BurnMedia.csproj.GenerateResource.Cache
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Gravador\obj\Release\BurnMedia.TrustInfo.xml
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Gravador\obj\Release\BurnMedia.exe.manifest
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Gravador\obj\Release\BurnMedia.application
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Gravador\obj\Release\BurnMedia.exe
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Gravador\obj\Release\BurnMedia.pdb

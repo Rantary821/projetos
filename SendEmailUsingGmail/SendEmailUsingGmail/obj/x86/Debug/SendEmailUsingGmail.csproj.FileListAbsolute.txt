@@ -1,0 +1,19 @@
+C:\Users\sanchit\documents\visual studio 2010\Projects\SendEmailUsingGmail\SendEmailUsingGmail\bin\Debug\SendEmailUsingGmail.exe
+C:\Users\sanchit\documents\visual studio 2010\Projects\SendEmailUsingGmail\SendEmailUsingGmail\bin\Debug\SendEmailUsingGmail.pdb
+C:\Users\sanchit\documents\visual studio 2010\Projects\SendEmailUsingGmail\SendEmailUsingGmail\bin\Debug\Gmail.dll
+C:\Users\sanchit\documents\visual studio 2010\Projects\SendEmailUsingGmail\SendEmailUsingGmail\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sanchit\documents\visual studio 2010\Projects\SendEmailUsingGmail\SendEmailUsingGmail\obj\x86\Debug\SendEmailUsingGmail.Form1.resources
+C:\Users\sanchit\documents\visual studio 2010\Projects\SendEmailUsingGmail\SendEmailUsingGmail\obj\x86\Debug\SendEmailUsingGmail.Properties.Resources.resources
+C:\Users\sanchit\documents\visual studio 2010\Projects\SendEmailUsingGmail\SendEmailUsingGmail\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sanchit\documents\visual studio 2010\Projects\SendEmailUsingGmail\SendEmailUsingGmail\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sanchit\documents\visual studio 2010\Projects\SendEmailUsingGmail\SendEmailUsingGmail\obj\x86\Debug\SendEmailUsingGmail.exe
+C:\Users\sanchit\documents\visual studio 2010\Projects\SendEmailUsingGmail\SendEmailUsingGmail\obj\x86\Debug\SendEmailUsingGmail.pdb
+C:\Users\Otavio\Desktop\SendEmailUsingGmail\SendEmailUsingGmail\obj\x86\Debug\SendEmailUsingGmail.exe
+C:\Users\Otavio\Desktop\SendEmailUsingGmail\SendEmailUsingGmail\obj\x86\Debug\SendEmailUsingGmail.pdb
+C:\Users\Otavio\Desktop\SendEmailUsingGmail\SendEmailUsingGmail\bin\Debug\SendEmailUsingGmail.exe
+C:\Users\Otavio\Desktop\SendEmailUsingGmail\SendEmailUsingGmail\bin\Debug\SendEmailUsingGmail.pdb
+C:\Users\Otavio\Desktop\SendEmailUsingGmail\SendEmailUsingGmail\bin\Debug\Gmail.dll
+C:\Users\Otavio\Desktop\SendEmailUsingGmail\SendEmailUsingGmail\obj\x86\Debug\SendEmailUsingGmail.csprojResolveAssemblyReference.cache
+C:\Users\Otavio\Desktop\SendEmailUsingGmail\SendEmailUsingGmail\obj\x86\Debug\SendEmailUsingGmail.Form1.resources
+C:\Users\Otavio\Desktop\SendEmailUsingGmail\SendEmailUsingGmail\obj\x86\Debug\SendEmailUsingGmail.Properties.Resources.resources
+C:\Users\Otavio\Desktop\SendEmailUsingGmail\SendEmailUsingGmail\obj\x86\Debug\SendEmailUsingGmail.csproj.GenerateResource.Cache

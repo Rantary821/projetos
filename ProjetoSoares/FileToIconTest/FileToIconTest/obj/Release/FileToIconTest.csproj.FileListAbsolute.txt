@@ -1,0 +1,17 @@
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\bin\Release\FileToIconTest.exe
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\bin\Release\FileToIconTest.pdb
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\obj\Release\Resources\brushes.baml
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\obj\Release\AutoCompleteTextBox\SelectFolderTextBox.g.cs
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\obj\Release\Window1.g.cs
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\obj\Release\App.g.cs
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\obj\Release\FileToIconTest_MarkupCompile.cache
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\obj\Release\FileToIconTest_MarkupCompile.lref
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\obj\Release\AutoCompleteTextBox\SelectFolderTextBox.baml
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\obj\Release\Window1.baml
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\obj\Release\FileToIconTest.g.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\obj\Release\FileToIconTest.Properties.Resources.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\obj\Release\FileToIconTest.teste.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\obj\Release\FileToIconTest.csproj.GenerateResource.Cache
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\obj\Release\FileToIconTest.exe
+C:\Users\Otavio\Desktop\ProjetoSoares\FileToIconTest\FileToIconTest\obj\Release\FileToIconTest.pdb

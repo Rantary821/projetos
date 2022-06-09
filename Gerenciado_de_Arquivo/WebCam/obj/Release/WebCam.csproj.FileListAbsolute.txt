@@ -1,0 +1,16 @@
+C:\Users\otavi\Desktop\WebCam\bin\Release\WebCam.exe.config
+C:\Users\otavi\Desktop\WebCam\obj\Release\WebCam.exe
+C:\Users\otavi\Desktop\WebCam\obj\Release\WebCam.pdb
+C:\Users\otavi\Desktop\WebCam\bin\Release\WebCam.exe.manifest
+C:\Users\otavi\Desktop\WebCam\bin\Release\WebCam.application
+C:\Users\otavi\Desktop\WebCam\bin\Release\WebCam.exe
+C:\Users\otavi\Desktop\WebCam\bin\Release\WebCam.pdb
+C:\Users\otavi\Desktop\WebCam\bin\Release\DirectX.Capture.dll
+C:\Users\otavi\Desktop\WebCam\bin\Release\DShowNET.dll
+C:\Users\otavi\Desktop\WebCam\obj\Release\WebCam.Cam.resources
+C:\Users\otavi\Desktop\WebCam\obj\Release\WebCam.Properties.Resources.resources
+C:\Users\otavi\Desktop\WebCam\obj\Release\WebCam.csproj.GenerateResource.Cache
+C:\Users\otavi\Desktop\WebCam\obj\Release\WebCam.exe.manifest
+C:\Users\otavi\Desktop\WebCam\obj\Release\WebCam.application
+C:\Users\otavi\Desktop\WebCam\obj\Release\WebCam.csprojResolveAssemblyReference.cache
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\WebCam\bin\Release\WebCam.exe.config

@@ -1,0 +1,40 @@
+C:\Users\USUARIO\documents\visual studio 2015\Projects\treinamento\menu\bin\Debug\menu.exe.config
+C:\Users\USUARIO\documents\visual studio 2015\Projects\treinamento\menu\bin\Debug\menu.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\treinamento\menu\bin\Debug\menu.pdb
+C:\Users\USUARIO\documents\visual studio 2015\Projects\treinamento\menu\bin\Debug\MySql.Data.dll
+C:\Users\USUARIO\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menuAddItem.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menu.Form1.resources
+C:\Users\USUARIO\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menu.pessoa.resources
+C:\Users\USUARIO\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Users\USUARIO\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menuAddItem.csproj.GenerateResource.Cache
+C:\Users\USUARIO\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menu.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menu.pdb
+C:\Users\USUARIO\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menu.menuprinci.resources
+C:\Users\USUARIO\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menu.imgs.resources
+C:\Users\USUARIO\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menu.Pesquisa.resources
+C:\Users\Otavio\Desktop\Projetos c#\treinamento\menu\bin\Debug\menu.exe.config
+C:\Users\Otavio\Desktop\Projetos c#\treinamento\menu\obj\Debug\menu.exe
+C:\Users\Otavio\Desktop\Projetos c#\treinamento\menu\obj\Debug\menu.pdb
+C:\Users\Otavio\Desktop\Projetos c#\treinamento\menu\bin\Debug\menu.exe
+C:\Users\Otavio\Desktop\Projetos c#\treinamento\menu\bin\Debug\menu.pdb
+C:\Users\Otavio\Desktop\Projetos c#\treinamento\menu\obj\Debug\menuAddItem.csprojResolveAssemblyReference.cache
+C:\Users\Otavio\Desktop\Projetos c#\treinamento\menu\obj\Debug\menu.ficha.resources
+C:\Users\Otavio\Desktop\Projetos c#\treinamento\menu\obj\Debug\menu.Form1.resources
+C:\Users\Otavio\Desktop\Projetos c#\treinamento\menu\obj\Debug\menu.menuprinci.resources
+C:\Users\Otavio\Desktop\Projetos c#\treinamento\menu\obj\Debug\menu.Pesquisa.resources
+C:\Users\Otavio\Desktop\Projetos c#\treinamento\menu\obj\Debug\menu.pessoa.resources
+C:\Users\Otavio\Desktop\Projetos c#\treinamento\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Users\Otavio\Desktop\Projetos c#\treinamento\menu\obj\Debug\menuAddItem.csproj.GenerateResource.Cache
+C:\Users\otavi\Dropbox\Projetos c# - Backup\Projetos c#\treinamento\menu\bin\Debug\menu.exe.config
+C:\Users\otavi\Dropbox\Projetos c# - Backup\Projetos c#\treinamento\menu\bin\Debug\menu.exe
+C:\Users\otavi\Dropbox\Projetos c# - Backup\Projetos c#\treinamento\menu\bin\Debug\menu.pdb
+C:\Users\otavi\Dropbox\Projetos c# - Backup\Projetos c#\treinamento\menu\obj\Debug\menuAddItem.csprojResolveAssemblyReference.cache
+C:\Users\otavi\Dropbox\Projetos c# - Backup\Projetos c#\treinamento\menu\obj\Debug\menu.ficha.resources
+C:\Users\otavi\Dropbox\Projetos c# - Backup\Projetos c#\treinamento\menu\obj\Debug\menu.Form1.resources
+C:\Users\otavi\Dropbox\Projetos c# - Backup\Projetos c#\treinamento\menu\obj\Debug\menu.menuprinci.resources
+C:\Users\otavi\Dropbox\Projetos c# - Backup\Projetos c#\treinamento\menu\obj\Debug\menu.Pesquisa.resources
+C:\Users\otavi\Dropbox\Projetos c# - Backup\Projetos c#\treinamento\menu\obj\Debug\menu.pessoa.resources
+C:\Users\otavi\Dropbox\Projetos c# - Backup\Projetos c#\treinamento\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Users\otavi\Dropbox\Projetos c# - Backup\Projetos c#\treinamento\menu\obj\Debug\menuAddItem.csproj.GenerateResource.Cache
+C:\Users\otavi\Dropbox\Projetos c# - Backup\Projetos c#\treinamento\menu\obj\Debug\menu.exe
+C:\Users\otavi\Dropbox\Projetos c# - Backup\Projetos c#\treinamento\menu\obj\Debug\menu.pdb

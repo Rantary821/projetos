@@ -1,0 +1,11 @@
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListView\bin\Debug\ImageListView.dll.config
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListView\bin\Debug\ImageListView.XML
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListView\bin\Debug\ImageListView.dll
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListView\bin\Debug\ImageListView.pdb
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListView\bin\Debug\tr\ImageListView.resources.dll
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListView\obj\Debug\Manina.Windows.Forms.ImageListViewResources.resources
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListView\obj\Debug\Manina.Windows.Forms.ImageListViewResources.tr.resources
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListView\obj\Debug\ImageListView.csproj.GenerateResource.Cache
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListView\obj\Debug\tr\ImageListView.resources.dll
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListView\obj\Debug\ImageListView.dll
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListView\obj\Debug\ImageListView.pdb

@@ -1,0 +1,76 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Gerenciado_de_ArquivoPermanente\Menu_Principal\bin\Debug\Menu_Principal.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\Gerenciado_de_ArquivoPermanente\Menu_Principal\bin\Debug\Menu_Principal.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Gerenciado_de_ArquivoPermanente\Menu_Principal\bin\Debug\Menu_Principal.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.exe
+c:\users\usuario\documents\visual studio 2015\Projects\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.cadAluno.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.menu.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.Pesquisa.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Gerenciado_de_ArquivoPermanente\Menu_Principal\bin\Debug\MySql.Data.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.Ficha.resources
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\bin\Debug\Menu_Principal.exe.config
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\bin\Debug\Menu_Principal.exe.manifest
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\bin\Debug\Menu_Principal.application
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\bin\Debug\Menu_Principal.exe
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\bin\Debug\Menu_Principal.pdb
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\bin\Debug\MySql.Data.dll
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.csprojResolveAssemblyReference.cache
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.cadAluno.resources
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.Ficha.resources
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.menu.resources
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.Pesquisa.resources
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.Properties.Resources.resources
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.WebCam.resources
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.ZoomIMG.resources
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.csproj.GenerateResource.Cache
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.exe.manifest
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.application
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.exe
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.pdb
+C:\Users\otavi\Desktop\Gerenciado_de_ArquivoPermanente\Menu_Principal\obj\Debug\Menu_Principal.Updates.resources
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Menu_Principal.exe.config
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Menu_Principal.exe.manifest
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Menu_Principal.application
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Menu_Principal.exe
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Menu_Principal.pdb
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\MySql.Data.dll
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.cadAluno.resources
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Ficha.resources
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.menu.resources
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Pesquisa.resources
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.WebCam.resources
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.ZoomIMG.resources
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.exe.manifest
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.application
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.exe
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.pdb
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\DirectX.Capture.dll
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Interop.WIA.dll
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.csproj.ResolveComReference.cache
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.cadAluno.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Ficha.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Imagens.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.menu.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Pesquisa.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Properties.Resources.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.PScanner.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.ZoomIMG.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.csproj.GenerateResource.Cache
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Menu_Principal.exe.config
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Menu_Principal.exe.manifest
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Menu_Principal.application
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Menu_Principal.exe
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Menu_Principal.pdb
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\MySql.Data.dll
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Interop.WIA.dll
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.csprojResolveAssemblyReference.cache
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.exe.manifest
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.application
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.exe
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.pdb

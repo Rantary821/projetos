@@ -1,0 +1,38 @@
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\SoaresTeste1.exe.config
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\SoaresTeste1.exe.manifest
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\SoaresTeste1.application
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\SoaresTeste1.exe
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\SoaresTeste1.pdb
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\FileToIconTest.exe
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\MySql.Data.dll
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\ScannerDemo.exe
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\Interop.WIA.dll
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\DirectX.Capture.dll
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\DShowNET.dll
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\FileToIconTest.pdb
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\ScannerDemo.pdb
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.csprojResolveAssemblyReference.cache
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.CadastroAluno.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.Configuracao.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.Email.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.Ficha.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.Menu.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.Pesquisa.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.Properties.Resources.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.TratarImagens.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.csproj.GenerateResource.Cache
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.exe.manifest
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.application
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.exe
+C:\Users\Otavio\Desktop\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.pdb
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\SoaresTeste1.exe.config
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.exe
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.pdb
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\SoaresTeste1.exe.config
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.exe
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.pdb
+C:\Dropbox\Projetos c# - Backup\Antigos\ProjetoSoares\SoaresTeste1\SoaresTeste1\bin\Release\SoaresTeste1.exe.config
+C:\Dropbox\Projetos c# - Backup\Antigos\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.exe
+C:\Dropbox\Projetos c# - Backup\Antigos\ProjetoSoares\SoaresTeste1\SoaresTeste1\obj\Release\SoaresTeste1.pdb

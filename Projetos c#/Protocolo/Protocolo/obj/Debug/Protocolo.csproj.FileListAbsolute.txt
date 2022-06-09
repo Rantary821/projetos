@@ -1,0 +1,13 @@
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Protocolo\Protocolo\bin\Debug\Protocolo.exe.config
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Protocolo\Protocolo\bin\Debug\Protocolo.exe
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Protocolo\Protocolo\bin\Debug\Protocolo.pdb
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Protocolo\Protocolo\obj\Debug\Protocolo.csprojResolveAssemblyReference.cache
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Protocolo\Protocolo\obj\Debug\Protocolo.Form1.resources
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Protocolo\Protocolo\obj\Debug\Protocolo.Properties.Resources.resources
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Protocolo\Protocolo\obj\Debug\Protocolo.csproj.GenerateResource.Cache
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Protocolo\Protocolo\obj\Debug\Protocolo.exe
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Protocolo\Protocolo\obj\Debug\Protocolo.pdb
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Protocolo\Protocolo\obj\Debug\Protocolo.Message.resources
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Protocolo\bin\Debug\Protocolo.exe.config
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Protocolo\obj\Debug\Protocolo.exe
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Protocolo\obj\Debug\Protocolo.pdb

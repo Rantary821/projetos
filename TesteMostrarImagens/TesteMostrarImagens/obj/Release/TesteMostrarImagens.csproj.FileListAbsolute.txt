@@ -1,0 +1,14 @@
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Release\TesteMostrarImagens.exe.config
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Release\TesteMostrarImagens.exe
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Release\TesteMostrarImagens.pdb
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Release\MySql.Data.dll
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\bin\Release\MySql.Data.xml
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Release\TesteMostrarImagens.csprojResolveAssemblyReference.cache
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Release\TesteMostrarImagens.Arquivo.resources
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Release\TesteMostrarImagens.ImputTextBox.resources
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Release\TesteMostrarImagens.MessageBoxApel.resources
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Release\TesteMostrarImagens.Properties.Resources.resources
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Release\TesteMostrarImagens.ZoomIMG.resources
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Release\TesteMostrarImagens.csproj.GenerateResource.Cache
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Release\TesteMostrarImagens.exe
+C:\Users\otavi\Desktop\Testes Novo Arquivo\TesteMostrarImagens\TesteMostrarImagens\obj\Release\TesteMostrarImagens.pdb

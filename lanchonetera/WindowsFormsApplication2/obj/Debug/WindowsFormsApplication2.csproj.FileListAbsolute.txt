@@ -1,0 +1,100 @@
+c:\users\usuario\documents\visual studio 2015\Projects\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\USUARIO\documents\visual studio 2015\Projects\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\USUARIO\documents\visual studio 2015\Projects\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\documents\visual studio 2015\Projects\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\USUARIO\documents\visual studio 2015\Projects\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\USUARIO\documents\visual studio 2015\Projects\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\USUARIO\documents\visual studio 2015\Projects\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\USUARIO\Documents\visual studio 2015\Projects\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.menuPrincipal.resources
+C:\Users\USUARIO\Documents\visual studio 2015\Projects\lanchonetera\WindowsFormsApplication2\bin\Debug\69024-bunifu_ui_v1.52 .dll
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.menuPrincipal.resources
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Funcionarios.resources
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Estoque.resources
+C:\Users\Young\Desktop\lanchonetera - Cópia\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Young\Desktop\lanchonetera - Cópia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Young\Desktop\lanchonetera - Cópia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Young\Desktop\lanchonetera - Cópia\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Young\Desktop\lanchonetera - Cópia\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Young\Desktop\lanchonetera - Cópia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Young\Desktop\lanchonetera - Cópia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Estoque.resources
+C:\Users\Young\Desktop\lanchonetera - Cópia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Funcionarios.resources
+C:\Users\Young\Desktop\lanchonetera - Cópia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.menuPrincipal.resources
+C:\Users\Young\Desktop\lanchonetera - Cópia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Young\Desktop\lanchonetera - Cópia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Young\Desktop\lanchonetera - Cópia\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\Young\Desktop\lanchonetera - Cópia\WindowsFormsApplication2\bin\Debug\MySql.Data.xml
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\bin\Debug\69024-bunifu_ui_v1.52.dll
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\bin\Debug\MySql.Data.xml
+C:\Users\USUARIO\Desktop\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\USUARIO\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\USUARIO\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\USUARIO\Desktop\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\USUARIO\Desktop\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\USUARIO\Desktop\lanchonetera\WindowsFormsApplication2\bin\Debug\MySql.Data.xml
+C:\Users\USUARIO\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Estoque.resources
+C:\Users\USUARIO\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Funcionarios.resources
+C:\Users\USUARIO\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.menuPrincipal.resources
+C:\Users\USUARIO\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Ficha.resources
+C:\Users\USUARIO\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Ficha.resources
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CadastroDeClientes.resources
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Vendas.resources
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Login.resources
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CadUsuario.resources
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Fornecedor.resources
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\bin\Debug\MySql.Data.xml
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CadastroDeClientes.resources
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CadUsuario.resources
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Estoque.resources
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Ficha.resources
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Fornecedor.resources
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Funcionarios.resources
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Login.resources
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.menuPrincipal.resources
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Vendas.resources
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormMessageBox.resources
+C:\Users\Young\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Pagamento.resources
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormMessageBox.resources
+C:\Users\Young\Desktop\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Pagamento.resources
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\bin\Debug\MySql.Data.xml
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CadastroDeClientes.resources
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CadUsuario.resources
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Estoque.resources
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Ficha.resources
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormMessageBox.resources
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Fornecedor.resources
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Funcionarios.resources
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Login.resources
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.menuPrincipal.resources
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Pagamento.resources
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Vendas.resources
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\otavi\Desktop\Projetos c#\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Pedidos.resources

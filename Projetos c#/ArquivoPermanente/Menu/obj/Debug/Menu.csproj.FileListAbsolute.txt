@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2015\Projects\ArquivoPermanente\Menu\bin\Debug\Menu.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\ArquivoPermanente\Menu\bin\Debug\Menu.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ArquivoPermanente\Menu\bin\Debug\Menu.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\ArquivoPermanente\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\ArquivoPermanente\Menu\obj\Debug\Menu.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\ArquivoPermanente\Menu\obj\Debug\Menu.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\ArquivoPermanente\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\ArquivoPermanente\Menu\obj\Debug\Menu.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ArquivoPermanente\Menu\obj\Debug\Menu.pdb

@@ -1,0 +1,29 @@
+c:\users\young\documents\visual studio 2015\Projects\ValidaCPF\ValidaCPF\bin\Debug\ValidaCPF.exe.config
+c:\users\young\documents\visual studio 2015\Projects\ValidaCPF\ValidaCPF\bin\Debug\ValidaCPF.exe
+c:\users\young\documents\visual studio 2015\Projects\ValidaCPF\ValidaCPF\bin\Debug\ValidaCPF.pdb
+c:\users\young\documents\visual studio 2015\Projects\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.csprojResolveAssemblyReference.cache
+c:\users\young\documents\visual studio 2015\Projects\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.Form1.resources
+c:\users\young\documents\visual studio 2015\Projects\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.Properties.Resources.resources
+c:\users\young\documents\visual studio 2015\Projects\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.csproj.GenerateResource.Cache
+c:\users\young\documents\visual studio 2015\Projects\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.exe
+c:\users\young\documents\visual studio 2015\Projects\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.pdb
+H:\ValidaCPF\ValidaCPF\bin\Debug\ValidaCPF.exe.config
+H:\ValidaCPF\ValidaCPF\bin\Debug\ValidaCPF.exe
+H:\ValidaCPF\ValidaCPF\bin\Debug\ValidaCPF.pdb
+H:\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.csprojResolveAssemblyReference.cache
+H:\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.Form1.resources
+H:\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.Properties.Resources.resources
+H:\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.csproj.GenerateResource.cache
+H:\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.csproj.CoreCompileInputs.cache
+H:\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.exe
+H:\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.pdb
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\ValidaCPF\ValidaCPF\bin\Debug\ValidaCPF.exe.config
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\ValidaCPF\ValidaCPF\bin\Debug\ValidaCPF.exe
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\ValidaCPF\ValidaCPF\bin\Debug\ValidaCPF.pdb
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.csprojResolveAssemblyReference.cache
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.Form1.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.Properties.Resources.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.csproj.GenerateResource.Cache
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.csproj.CoreCompileInputs.cache
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.exe
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente2018\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.pdb

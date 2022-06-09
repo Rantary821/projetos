@@ -1,0 +1,156 @@
+E:\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe.config
+E:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.exe
+E:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.pdb
+E:\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe
+E:\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.pdb
+E:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csprojResolveAssemblyReference.cache
+E:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroAluno.resources
+E:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Menu.resources
+E:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Properties.Resources.resources
+E:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csproj.GenerateResource.Cache
+I:\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe.config
+I:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.exe
+I:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.pdb
+J:\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe.config
+J:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.exe
+J:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.pdb
+E:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroCurso.resources
+E:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.FichaPessoal.resources
+J:\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe
+J:\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.pdb
+J:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csprojResolveAssemblyReference.cache
+J:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroAluno.resources
+J:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroCurso.resources
+J:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.FichaPessoal.resources
+J:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Menu.resources
+J:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Properties.Resources.resources
+J:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe.config
+C:\Users\Aluno\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.exe
+C:\Users\Aluno\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.pdb
+C:\Users\Aluno\Desktop\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe
+C:\Users\Aluno\Desktop\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.pdb
+C:\Users\Aluno\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroAluno.resources
+C:\Users\Aluno\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroCurso.resources
+C:\Users\Aluno\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.FichaPessoal.resources
+C:\Users\Aluno\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Menu.resources
+C:\Users\Aluno\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Aluno\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.configuracao.resources
+J:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.configuracao.resources
+E:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.configuracao.resources
+E:\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\MySql.Data.dll
+F:\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe.config
+F:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.exe
+F:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.pdb
+F:\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe
+F:\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.pdb
+F:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csprojResolveAssemblyReference.cache
+F:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroAluno.resources
+F:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroCurso.resources
+F:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.configuracao.resources
+F:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.FichaPessoal.resources
+F:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Menu.resources
+F:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Properties.Resources.resources
+F:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe.config
+C:\Users\USUARIO\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.exe
+C:\Users\USUARIO\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.pdb
+C:\Users\USUARIO\Desktop\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe
+C:\Users\USUARIO\Desktop\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.pdb
+C:\Users\USUARIO\Desktop\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\MySql.Data.dll
+C:\Users\USUARIO\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroAluno.resources
+C:\Users\USUARIO\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroCurso.resources
+C:\Users\USUARIO\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.configuracao.resources
+C:\Users\USUARIO\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.FichaPessoal.resources
+C:\Users\USUARIO\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Menu.resources
+C:\Users\USUARIO\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csproj.GenerateResource.Cache
+I:\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe
+I:\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.pdb
+I:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csprojResolveAssemblyReference.cache
+I:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroAluno.resources
+I:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroCurso.resources
+I:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.configuracao.resources
+I:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.FichaPessoal.resources
+I:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Menu.resources
+I:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Properties.Resources.resources
+I:\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csproj.GenerateResource.Cache
+I:\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\MySql.Data.dll
+I:\New folder\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe.config
+I:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.exe
+I:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.pdb
+I:\New folder\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe
+I:\New folder\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.pdb
+I:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csprojResolveAssemblyReference.cache
+I:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroAluno.resources
+I:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroCurso.resources
+I:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.configuracao.resources
+I:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.FichaPessoal.resources
+I:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Menu.resources
+I:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Properties.Resources.resources
+I:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csproj.GenerateResource.Cache
+I:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.importacao.resources
+E:\New folder\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe.config
+E:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.exe
+E:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.pdb
+E:\New folder\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.exe
+E:\New folder\TCC\Fonte\ArquivoPermanente\Menu\bin\Debug\Menu.pdb
+E:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csprojResolveAssemblyReference.cache
+E:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroAluno.resources
+E:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroCurso.resources
+E:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.configuracao.resources
+E:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.FichaPessoal.resources
+E:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.importacao.resources
+E:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Menu.resources
+E:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.Properties.Resources.resources
+E:\New folder\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\TCC\Fonte\ArquivoPermanente\Menu\obj\Debug\Menu.importacao.resources
+C:\Users\Young\Desktop\ArquivoPermanente\Menu\bin\Debug\Menu.exe.config
+C:\Users\Young\Desktop\ArquivoPermanente\Menu\obj\Debug\Menu.exe
+C:\Users\Young\Desktop\ArquivoPermanente\Menu\obj\Debug\Menu.pdb
+C:\Users\Young\Desktop\ArquivoPermanente\Menu\bin\Debug\Menu.exe
+C:\Users\Young\Desktop\ArquivoPermanente\Menu\bin\Debug\Menu.pdb
+C:\Users\Young\Desktop\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csprojResolveAssemblyReference.cache
+C:\Users\Young\Desktop\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroAluno.resources
+C:\Users\Young\Desktop\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroCurso.resources
+C:\Users\Young\Desktop\ArquivoPermanente\Menu\obj\Debug\Menu.configuracao.resources
+C:\Users\Young\Desktop\ArquivoPermanente\Menu\obj\Debug\Menu.FichaPessoal.resources
+C:\Users\Young\Desktop\ArquivoPermanente\Menu\obj\Debug\Menu.importacao.resources
+C:\Users\Young\Desktop\ArquivoPermanente\Menu\obj\Debug\Menu.Menu.resources
+C:\Users\Young\Desktop\ArquivoPermanente\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Young\Desktop\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csproj.GenerateResource.Cache
+C:\Users\otavi\Desktop\Projetos c#\ArquivoPermanente\Menu\bin\Debug\Menu.exe.config
+C:\Users\otavi\Desktop\Projetos c#\ArquivoPermanente\Menu\bin\Debug\Menu.exe
+C:\Users\otavi\Desktop\Projetos c#\ArquivoPermanente\Menu\bin\Debug\Menu.pdb
+C:\Users\otavi\Desktop\Projetos c#\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csprojResolveAssemblyReference.cache
+C:\Users\otavi\Desktop\Projetos c#\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroAluno.resources
+C:\Users\otavi\Desktop\Projetos c#\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroCurso.resources
+C:\Users\otavi\Desktop\Projetos c#\ArquivoPermanente\Menu\obj\Debug\Menu.configuracao.resources
+C:\Users\otavi\Desktop\Projetos c#\ArquivoPermanente\Menu\obj\Debug\Menu.FichaPessoal.resources
+C:\Users\otavi\Desktop\Projetos c#\ArquivoPermanente\Menu\obj\Debug\Menu.importacao.resources
+C:\Users\otavi\Desktop\Projetos c#\ArquivoPermanente\Menu\obj\Debug\Menu.Menu.resources
+C:\Users\otavi\Desktop\Projetos c#\ArquivoPermanente\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\otavi\Desktop\Projetos c#\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csproj.GenerateResource.Cache
+C:\Users\otavi\Desktop\Projetos c#\ArquivoPermanente\Menu\obj\Debug\Menu.exe
+C:\Users\otavi\Desktop\Projetos c#\ArquivoPermanente\Menu\obj\Debug\Menu.pdb
+C:\Users\Otavio\Desktop\Projetos c#\ArquivoPermanente\Menu\bin\Debug\Menu.exe.config
+C:\Users\Otavio\Desktop\Projetos c#\ArquivoPermanente\Menu\obj\Debug\Menu.exe
+C:\Users\Otavio\Desktop\Projetos c#\ArquivoPermanente\Menu\obj\Debug\Menu.pdb
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente\Menu\bin\Debug\Menu.exe.config
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente\Menu\obj\Debug\Menu.exe
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente\Menu\obj\Debug\Menu.pdb
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente\Menu\bin\Debug\Menu.exe
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente\Menu\bin\Debug\Menu.pdb
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csprojResolveAssemblyReference.cache
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroAluno.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente\Menu\obj\Debug\Menu.CadastroCurso.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente\Menu\obj\Debug\Menu.configuracao.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente\Menu\obj\Debug\Menu.FichaPessoal.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente\Menu\obj\Debug\Menu.importacao.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente\Menu\obj\Debug\Menu.Menu.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoPermanente\Menu\obj\Debug\Arquivo_Permanente.csproj.GenerateResource.Cache
