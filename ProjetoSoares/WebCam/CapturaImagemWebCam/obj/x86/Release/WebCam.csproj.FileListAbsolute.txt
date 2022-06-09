@@ -1,0 +1,10 @@
+C:\Users\Otavio\Desktop\ProjetoSoares\WebCam\CapturaImagemWebCam\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Otavio\Desktop\ProjetoSoares\WebCam\CapturaImagemWebCam\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Otavio\Desktop\ProjetoSoares\WebCam\CapturaImagemWebCam\bin\Release\DirectX.Capture.dll
+C:\Users\Otavio\Desktop\ProjetoSoares\WebCam\CapturaImagemWebCam\bin\Release\DShowNET.dll
+C:\Users\Otavio\Desktop\ProjetoSoares\WebCam\CapturaImagemWebCam\obj\x86\Release\WindowsFormsApplication1.WebCam.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\WebCam\CapturaImagemWebCam\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\WebCam\CapturaImagemWebCam\obj\x86\Release\WebCam.csproj.GenerateResource.Cache
+C:\Users\Otavio\Desktop\ProjetoSoares\WebCam\CapturaImagemWebCam\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\Otavio\Desktop\ProjetoSoares\WebCam\CapturaImagemWebCam\obj\x86\Release\WindowsFormsApplication1.pdb
+C:\Users\Otavio\Desktop\ProjetoSoares\WebCam\CapturaImagemWebCam\obj\x86\Release\WebCam.csprojResolveAssemblyReference.cache

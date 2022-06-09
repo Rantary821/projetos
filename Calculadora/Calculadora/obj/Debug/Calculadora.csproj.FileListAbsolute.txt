@@ -1,0 +1,27 @@
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\otavi\Desktop\Projetos c#\Protocolo\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\otavi\Desktop\Projetos c#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\otavi\Desktop\Projetos c#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\otavi\Desktop\Projetos c#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\otavi\Desktop\Projetos c#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\otavi\Desktop\Projetos c#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\otavi\Desktop\Projetos c#\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\otavi\Desktop\Projetos c#\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\otavi\Desktop\Projetos c#\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\otavi\Desktop\Projetos c#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+E:\Nova pasta\Projetos c#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\Nova pasta\Projetos c#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\Nova pasta\Projetos c#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\Nova pasta\Projetos c#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\Nova pasta\Projetos c#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\Nova pasta\Projetos c#\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+E:\Nova pasta\Projetos c#\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+E:\Nova pasta\Projetos c#\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\Nova pasta\Projetos c#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache

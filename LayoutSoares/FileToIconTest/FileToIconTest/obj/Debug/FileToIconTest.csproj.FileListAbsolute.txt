@@ -1,0 +1,51 @@
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\bin\Debug\FileToIconTest.exe
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\bin\Debug\FileToIconTest.pdb
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.csprojResolveAssemblyReference.cache
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\obj\Debug\Resources\Brushes.baml
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\obj\Debug\AutoCompleteTextBox\SelectFolderTextBox.g.cs
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\obj\Debug\Window1.g.cs
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\obj\Debug\App.g.cs
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest_MarkupCompile.cache
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest_MarkupCompile.lref
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\obj\Debug\AutoCompleteTextBox\SelectFolderTextBox.baml
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\obj\Debug\Window1.baml
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.g.resources
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.Properties.Resources.resources
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.csproj.GenerateResource.Cache
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.exe
+C:\Users\Otavio\Desktop\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.pdb
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.exe
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.pdb
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\bin\Debug\FileToIconTest.exe
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\bin\Debug\FileToIconTest.pdb
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.csprojResolveAssemblyReference.cache
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\obj\Debug\Resources\Brushes.baml
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\obj\Debug\AutoCompleteTextBox\SelectFolderTextBox.g.cs
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\obj\Debug\Window1.g.cs
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\obj\Debug\App.g.cs
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest_MarkupCompile.cache
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest_MarkupCompile.lref
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\obj\Debug\AutoCompleteTextBox\SelectFolderTextBox.baml
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\obj\Debug\Window1.baml
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.g.resources
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.Properties.Resources.resources
+C:\Users\Otavio\Desktop\Projetos c#\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.csproj.GenerateResource.Cache
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.exe
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.pdb
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\bin\Debug\FileToIconTest.exe
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\bin\Debug\FileToIconTest.pdb
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.csprojResolveAssemblyReference.cache
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\obj\Debug\Resources\Brushes.baml
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\obj\Debug\AutoCompleteTextBox\SelectFolderTextBox.g.cs
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\obj\Debug\Window1.g.cs
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\obj\Debug\App.g.cs
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest_MarkupCompile.cache
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest_MarkupCompile.lref
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\obj\Debug\AutoCompleteTextBox\SelectFolderTextBox.baml
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\obj\Debug\Window1.baml
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.g.resources
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.Properties.Resources.resources
+C:\Users\Otavio\Desktop\Projetos c#\LayoutSoares\FileToIconTest\FileToIconTest\obj\Debug\FileToIconTest.csproj.GenerateResource.Cache

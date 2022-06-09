@@ -1,0 +1,12 @@
+c:\users\otavio\documents\visual studio 2015\Projects\TesteEmail\TesteEmail\bin\Debug\TesteEmail.exe.config
+c:\users\otavio\documents\visual studio 2015\Projects\TesteEmail\TesteEmail\bin\Debug\TesteEmail.exe
+c:\users\otavio\documents\visual studio 2015\Projects\TesteEmail\TesteEmail\bin\Debug\TesteEmail.pdb
+c:\users\otavio\documents\visual studio 2015\Projects\TesteEmail\TesteEmail\obj\Debug\TesteEmail.csprojResolveAssemblyReference.cache
+c:\users\otavio\documents\visual studio 2015\Projects\TesteEmail\TesteEmail\obj\Debug\TesteEmail.Form1.resources
+c:\users\otavio\documents\visual studio 2015\Projects\TesteEmail\TesteEmail\obj\Debug\TesteEmail.Properties.Resources.resources
+c:\users\otavio\documents\visual studio 2015\Projects\TesteEmail\TesteEmail\obj\Debug\TesteEmail.csproj.GenerateResource.Cache
+c:\users\otavio\documents\visual studio 2015\Projects\TesteEmail\TesteEmail\obj\Debug\TesteEmail.exe
+c:\users\otavio\documents\visual studio 2015\Projects\TesteEmail\TesteEmail\obj\Debug\TesteEmail.pdb
+C:\Users\Otavio\Desktop\TesteEmail\TesteEmail\bin\Debug\TesteEmail.exe.config
+C:\Users\Otavio\Desktop\TesteEmail\TesteEmail\obj\Debug\TesteEmail.exe
+C:\Users\Otavio\Desktop\TesteEmail\TesteEmail\obj\Debug\TesteEmail.pdb

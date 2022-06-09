@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\lanchonetera\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\lanchonetera\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\lanchonetera\lanchonetera\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\lanchonetera\lanchonetera\WindowsFormsApplication2\bin\Debug\69024-bunifu_ui_v1.52 .dll
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\lanchonetera\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\lanchonetera\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\lanchonetera\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\lanchonetera\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\lanchonetera\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\lanchonetera\lanchonetera\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

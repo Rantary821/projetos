@@ -1,0 +1,69 @@
+C:\Users\otavi\Desktop\controleAlunos\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Controle de Arquivos.exe.config
+C:\Users\otavi\Desktop\controleAlunos\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Interop.WIA.dll
+C:\Users\otavi\Desktop\controleAlunos\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle_Arquivos.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Controle de Arquivos.exe.config
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Interop.WIA.dll
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle_Arquivos.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\logoTipoFinalICO.ico
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Controle de Arquivos.exe.manifest
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Controle de Arquivos.application
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Controle de Arquivos.exe
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Controle de Arquivos.pdb
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\BurnMedia.exe
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\MySql.Data.dll
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\BurnMedia.pdb
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Interop.WIA.dll
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle_Arquivos.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.cadAluno.resources
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Email.resources
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Ficha.resources
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Imagens.resources
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Login.resources
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.menu.resources
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Pesquisa.resources
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.PScanner.resources
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Updates.resources
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.ZoomIMG.resources
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle_Arquivos.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle de Arquivos.exe.manifest
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle de Arquivos.application
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle de Arquivos.exe
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle de Arquivos.pdb
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Config.resources
+C:\Users\USUARIO\Desktop\projeto\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Updates1.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\logoTipoFinalICO.ico
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Controle de Arquivos.exe.config
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Controle de Arquivos.exe.manifest
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Controle de Arquivos.application
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Controle de Arquivos.exe
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Controle de Arquivos.pdb
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\BurnMedia.exe
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\MySql.Data.dll
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\BurnMedia.pdb
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Interop.WIA.dll
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle_Arquivos.csprojResolveAssemblyReference.cache
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Interop.WIA.dll
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle_Arquivos.csproj.ResolveComReference.cache
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Config.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.cadAluno.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Email.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Ficha.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Imagens.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Login.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.menu.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Pesquisa.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Properties.Resources.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.PScanner.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.Updates.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Menu_Principal.ZoomIMG.resources
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle_Arquivos.csproj.GenerateResource.Cache
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle de Arquivos.exe.manifest
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle de Arquivos.application
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle de Arquivos.exe
+C:\Users\otavi\Desktop\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle de Arquivos.pdb
+C:\Dropbox\Projetos c# - Backup\Antigos\Gerenciado_de_Arquivo\Menu_Principal\bin\Debug\Controle de Arquivos.exe.config
+C:\Dropbox\Projetos c# - Backup\Antigos\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Interop.WIA.dll
+C:\Dropbox\Projetos c# - Backup\Antigos\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle_Arquivos.csproj.ResolveComReference.cache
+C:\Dropbox\Projetos c# - Backup\Antigos\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle de Arquivos.exe
+C:\Dropbox\Projetos c# - Backup\Antigos\Gerenciado_de_Arquivo\Menu_Principal\obj\Debug\Controle de Arquivos.pdb

@@ -1,0 +1,10 @@
+c:\users\usuario\documents\visual studio 2015\Projects\treinamento\menu\bin\Debug\menu.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\treinamento\menu\bin\Debug\menu.exe
+c:\users\usuario\documents\visual studio 2015\Projects\treinamento\menu\bin\Debug\menu.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menu.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menu.Form1.resources
+c:\users\usuario\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menu.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menu.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menu.exe
+c:\users\usuario\documents\visual studio 2015\Projects\treinamento\menu\obj\Debug\menu.pdb
+C:\Users\USUARIO\documents\visual studio 2015\Projects\treinamento\menu\bin\Debug\MySql.Data.dll

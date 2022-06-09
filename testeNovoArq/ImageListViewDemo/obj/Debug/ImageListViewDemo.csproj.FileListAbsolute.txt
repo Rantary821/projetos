@@ -1,0 +1,14 @@
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListViewDemo\bin\Debug\ImageListViewDemo.exe.config
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListViewDemo\bin\Debug\ImageListViewDemo.exe
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListViewDemo\bin\Debug\ImageListViewDemo.pdb
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListViewDemo\bin\Debug\ImageListView.dll
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListViewDemo\bin\Debug\ImageListView.pdb
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListViewDemo\bin\Debug\ImageListView.xml
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListViewDemo\bin\Debug\tr\ImageListView.resources.dll
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListViewDemo\obj\Debug\ImageListViewDemo.csprojResolveAssemblyReference.cache
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListViewDemo\obj\Debug\ImageListViewDemo.ChooseColumns.resources
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListViewDemo\obj\Debug\ImageListViewDemo.DemoForm.resources
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListViewDemo\obj\Debug\ImageListViewDemo.Properties.Resources.resources
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListViewDemo\obj\Debug\ImageListViewDemo.csproj.GenerateResource.Cache
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListViewDemo\obj\Debug\ImageListViewDemo.exe
+C:\Users\Otavio\Desktop\testeNovoArq\ImageListViewDemo\obj\Debug\ImageListViewDemo.pdb

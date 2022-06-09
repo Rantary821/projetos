@@ -1,0 +1,110 @@
+ Database: gerenciadorcaixa
+
+
+CREATE TABLE `clientes` (
+  `IdCliente` int(10) NOT NULL,
+  `Nome` varchar(100) NOT NULL,
+  `Cpf` varchar(14) NOT NULL,
+  `Rg` varchar(13) NOT NULL,
+  `Nascimento` varchar(10) NOT NULL,
+  `Sexo` varchar(10) NOT NULL,
+  `Bairro` varchar(50) NOT NULL,
+  `Rua` varchar(20) NOT NULL,
+  `Numero` varchar(10) NOT NULL,
+  `Referencia` varchar(100) NOT NULL,
+  `Telefone` varchar(13) NOT NULL,
+  `Celular` varchar(14) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+CREATE TABLE `dividas` (
+  `IdCLiente` int(10) NOT NULL,
+  `DividaRestante` varchar(11) NOT NULL,
+  `TotalGasto` varchar(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+
+CREATE TABLE `parcelas` (
+  `IdVenda` int(10) NOT NULL,
+  `QuantParcelas` varchar(10) NOT NULL,
+  `ValorParcelas` varchar(10) NOT NULL,
+  `SubTotal` varchar(10) NOT NULL,
+  `FormaPagamento` varchar(15) NOT NULL,
+  `IdCLiente` int(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+CREATE TABLE `produtos` (
+  `IdProduto` int(10) NOT NULL,
+  `NomeProduto` varchar(100) NOT NULL,
+  `Categoria` varchar(50) NOT NULL,
+  `Observacoes` varchar(50) NOT NULL,
+  `Fornecedor` varchar(100) NOT NULL,
+  `PrecoCusto` varchar(10) NOT NULL,
+  `PrecoVenda` varchar(10) NOT NULL,
+  `UniDeVenda` varchar(50) NOT NULL,
+  `CodigoBusca` int(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+CREATE TABLE `vendas` (
+  `IdVenda` int(11) NOT NULL,
+  `IdProduto` int(11) NOT NULL,
+  `IdCliente` int(11) NOT NULL,
+  `Quant` varchar(11) NOT NULL,
+  `ValorUni` varchar(11) NOT NULL,
+  `TotalUni` varchar(11) NOT NULL,
+  `Observações` varchar(80) NOT NULL,
+  `DataVenda` varchar(25) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+
+CREATE TABLE `caixafecha` (
+  `Dia` varchar(10) NOT NULL,
+  `Total` varchar(10) NOT NULL,
+  `IdDat` int(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+CREATE TABLE `caixainout` (
+  `Dia` varchar(10) NOT NULL,
+  `Entrada` varchar(10) NOT NULL,
+  `Saida` varchar(10) NOT NULL,
+  `Hora` varchar(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+CREATE TABLE `vence` (
+  `diaVence` varchar(10) NOT NULL,
+  `Vencido` varchar(3) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+ALTER TABLE `clientes`
+  ADD PRIMARY KEY (`IdCliente`);
+
+
+
+ALTER TABLE `produtos`
+  ADD PRIMARY KEY (`IdProduto`);
+
+
+ALTER TABLE `caixafecha`
+  ADD PRIMARY KEY (`IdDat`);
+
+
+ALTER TABLE `clientes`
+  MODIFY `IdCliente` int(10) NOT NULL AUTO_INCREMENT;
+
+
+ALTER TABLE `produtos`
+  MODIFY `IdProduto` int(10) NOT NULL AUTO_INCREMENT;
+
+
+ALTER TABLE `caixafecha`
+  MODIFY `IdDat` int(10) NOT NULL AUTO_INCREMENT;
+
+
+INSERT INTO `vence`(`diaVence`, `Vencido`) VALUES ("n","");
