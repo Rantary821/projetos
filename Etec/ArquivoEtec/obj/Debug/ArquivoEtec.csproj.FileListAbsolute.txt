@@ -1,0 +1,242 @@
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\bin\Debug\ArquivoEtec.exe.config
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\bin\Debug\ArquivoEtec.exe
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\bin\Debug\ArquivoEtec.pdb
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.csprojResolveAssemblyReference.cache
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.Properties.Resources.resources
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.GenerateResource.Cache
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.CoreCompileInputs.cache
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.exe
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.pdb
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.CadastroAluno.resources
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.Menu.resources
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\bin\Debug\Google.Protobuf.dll
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\bin\Debug\MySql.Data.dll
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\bin\Debug\Google.Protobuf.xml
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\bin\Debug\MySql.Data.xml
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\bin\Debug\MySql.Web.dll
+C:\Users\Young\source\repos\ArquivoEtec\ArquivoEtec\bin\Debug\MySql.Web.xml
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\ArquivoEtec.exe.config
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\ArquivoEtec.exe
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\ArquivoEtec.pdb
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\Google.Protobuf.dll
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\MySql.Data.dll
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\Google.Protobuf.xml
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\MySql.Data.xml
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.csprojResolveAssemblyReference.cache
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.CadastroAluno.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.Menu.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.Properties.Resources.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.GenerateResource.Cache
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.CoreCompileInputs.cache
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.exe
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.pdb
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\ArquivoEtec.exe.config
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\ArquivoEtec.exe
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\ArquivoEtec.pdb
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\Google.Protobuf.dll
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\MySql.Data.dll
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\Google.Protobuf.xml
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\MySql.Data.xml
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.csprojResolveAssemblyReference.cache
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.CadastroAluno.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.Menu.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.Properties.Resources.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.GenerateResource.cache
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.CoreCompileInputs.cache
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.CopyComplete
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.exe
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.pdb
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\bin\Debug\ArquivoEtec.exe.config
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\bin\Debug\ArquivoEtec.exe
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\bin\Debug\ArquivoEtec.pdb
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\bin\Debug\Google.Protobuf.dll
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\bin\Debug\MySql.Data.dll
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\bin\Debug\Google.Protobuf.xml
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\bin\Debug\MySql.Data.xml
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csprojResolveAssemblyReference.cache
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.CadastroAluno.resources
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.Menu.resources
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.Properties.Resources.resources
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.GenerateResource.Cache
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.exe
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.pdb
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.CadAluno.resources
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\bin\Debug\arquivo.mdf
+C:\Users\Joao\Desktop\vs projects\ArquivoEtec1\ArquivoEtec\bin\Debug\arquivo_log.ldf
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\bin\Debug\arquivo.mdf
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\bin\Debug\arquivo_log.ldf
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\bin\Debug\ArquivoEtec.exe.config
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\bin\Debug\ArquivoEtec.exe
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\bin\Debug\ArquivoEtec.pdb
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\bin\Debug\Google.Protobuf.dll
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\bin\Debug\MySql.Data.dll
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\bin\Debug\Google.Protobuf.xml
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\bin\Debug\MySql.Data.xml
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csprojResolveAssemblyReference.cache
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.CadAluno.resources
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.CadastroAluno.resources
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.Menu.resources
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.Properties.Resources.resources
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.GenerateResource.cache
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.CoreCompileInputs.cache
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.CopyComplete
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.exe
+C:\Users\YoungSIR\Desktop\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.pdb
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\arquivo.mdf
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\arquivo_log.ldf
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\ArquivoEtec.exe.config
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\ArquivoEtec.exe
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\ArquivoEtec.pdb
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\Google.Protobuf.dll
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\MySql.Data.dll
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\Google.Protobuf.xml
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\MySql.Data.xml
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csprojResolveAssemblyReference.cache
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.CadAluno.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.CadastroAluno.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.Menu.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.Properties.Resources.resources
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.GenerateResource.cache
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.CoreCompileInputs.cache
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.CopyComplete
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.exe
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.pdb
+C:\Users\YoungSIR\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.Config.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\arquivo.mdf
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\arquivo_log.ldf
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\ArquivoEtec.exe.config
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\ArquivoEtec.exe
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\ArquivoEtec.pdb
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\Google.Protobuf.dll
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\MySql.Data.dll
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\Google.Protobuf.xml
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\bin\Debug\MySql.Data.xml
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csprojResolveAssemblyReference.cache
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.CadAluno.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.CadastroAluno.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.Config.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.Menu.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.Properties.Resources.resources
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.GenerateResource.Cache
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.CoreCompileInputs.cache
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.exe
+C:\Users\Young\Desktop\Dropbox\Projetos c# - Backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.pdb
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\bin\Debug\arquivo.mdf
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\bin\Debug\arquivo_log.ldf
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\bin\Debug\ArquivoEtec.exe.config
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\bin\Debug\ArquivoEtec.exe
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\bin\Debug\ArquivoEtec.pdb
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\bin\Debug\Google.Protobuf.dll
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\bin\Debug\MySql.Data.dll
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\bin\Debug\Google.Protobuf.xml
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\bin\Debug\MySql.Data.xml
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csprojResolveAssemblyReference.cache
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.CadAluno.resources
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.CadastroAluno.resources
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.Config.resources
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.Menu.resources
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.Properties.Resources.resources
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.GenerateResource.Cache
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.CoreCompileInputs.cache
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.exe
+C:\Users\Joao\Dropbox\projetos c# - backup\ArquivoEtec1\ArquivoEtec\obj\Debug\ArquivoEtec.pdb
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\ArquivoEtec.exe.config
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\ArquivoEtec.exe
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\ArquivoEtec.pdb
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\Google.Protobuf.dll
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\MySql.Data.dll
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\Google.Protobuf.xml
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\bin\Debug\MySql.Data.xml
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.csprojResolveAssemblyReference.cache
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.CadAluno.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.Ficha.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.Menu.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.Pesquisa.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.Properties.Resources.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.GenerateResource.cache
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.CoreCompileInputs.cache
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.exe
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.pdb
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.CopyComplete
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\Arquivo Raphael Brandão.exe.config
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\Arquivo Raphael Brandão.exe.manifest
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\Arquivo Raphael Brandão.application
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\Arquivo Raphael Brandão.exe
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\Arquivo Raphael Brandão.pdb
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\Google.Protobuf.dll
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\Interop.WIA.dll
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\itextsharp.dll
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\MySql.Data.dll
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\Google.Protobuf.xml
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\itextsharp.xml
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\bin\Debug\MySql.Data.xml
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.CadAluno.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.cadCurso.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Edit.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Ficha.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Menu.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Pesquisa.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Arquivo.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.MessageBoxApel.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Renomear.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Properties.Resources.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.PScanner.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.GenerateResource.Cache
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.CoreCompileInputs.cache
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\Arquivo Raphael Brandão.exe.manifest
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\Arquivo Raphael Brandão.application
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\Arquivo Raphael Brandão.exe
+C:\Dropbox\Projetos c# - Backup\ArquivoEtec\Etec\ArquivoEtec\obj\Debug\Arquivo Raphael Brandão.pdb
+C:\Users\Joao\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\Arquivo Raphael Brandão.exe.config
+C:\Users\Joao\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\Arquivo Raphael Brandão.exe
+C:\Users\Joao\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\Arquivo Raphael Brandão.pdb
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\Arquivo Raphael Brandão.exe.config
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\Arquivo Raphael Brandão.exe.manifest
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\Arquivo Raphael Brandão.application
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\Arquivo Raphael Brandão.exe
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\Arquivo Raphael Brandão.pdb
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\Google.Protobuf.dll
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\itextsharp.dll
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\MySql.Data.dll
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\Google.Protobuf.xml
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\itextsharp.xml
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\bin\Debug\MySql.Data.xml
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.csprojResolveAssemblyReference.cache
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.CadAluno.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.cadCurso.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Edit.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Ficha.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Menu.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Pesquisa.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Arquivo.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.MessageBoxApel.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Renomear.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Properties.Resources.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.PScanner.resources
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.GenerateResource.cache
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.CoreCompileInputs.cache
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\Arquivo Raphael Brandão.exe.manifest
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\Arquivo Raphael Brandão.application
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.CopyComplete
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\Arquivo Raphael Brandão.exe
+C:\Dropbox\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\Arquivo Raphael Brandão.pdb
+D:\Nuvem\OneDrive\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.CadAluno.resources
+D:\Nuvem\OneDrive\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.cadCurso.resources
+D:\Nuvem\OneDrive\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Edit.resources
+D:\Nuvem\OneDrive\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Ficha.resources
+D:\Nuvem\OneDrive\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Menu.resources
+D:\Nuvem\OneDrive\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Pesquisa.resources
+D:\Nuvem\OneDrive\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Arquivo.resources
+D:\Nuvem\OneDrive\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.MessageBoxApel.resources
+D:\Nuvem\OneDrive\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Renomear.resources
+D:\Nuvem\OneDrive\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.Properties.Resources.resources
+D:\Nuvem\OneDrive\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.PScanner.resources
+D:\Nuvem\OneDrive\Projetos c# - Backup\ArquivoRaphaelBrandao\Etec\ArquivoEtec\obj\Debug\ArquivoEtec.csproj.GenerateResource.cache

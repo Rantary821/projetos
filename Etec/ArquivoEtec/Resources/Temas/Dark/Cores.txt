@@ -1,0 +1,82 @@
+------------------------------------------------------------------------------------
+20;20;20;		menu - BackColor Titulo, Botão fechar, minimizar e menu lateral
+245;245;245;	menu - ForeColor Titulo,
+87;87;87;		menu - backColor botões não selecionado 
+210;105;30;		menu - backColor botões selecionado 
+150;150;150;	menu - lblRegsitro foreColor  
+130;130;130;	menu - lblVersão forecolor	
+------------------------------------------------------------------------------------
+64; 64; 64;	 	MessageBox/Scaner - Botões forecolor 2
+245;245;245;	MessageBox/Scaner - Botões backColor
+------------------------------------------------------------------------------------
+64; 64; 64;		Ficha - TabControl BackColor // Geral para todas as Tabs
+30;144;255;		Ficha - Selected arquivo BackColor
+------------------------------------------------------------------------------------
+64; 64; 64;		Grid - BackColor linha Não Selecionado 
+0;0;0;			Grid - Forecolor linha Não Selecionado 
+87; 87; 87;		Grid - BackColor linha Selecionado
+245;245;245;	Grid - forecolor linha Selecionado 
+87; 87; 87;		Grid - BackColor Titulo 
+245;245;245;	Grid - Forecolor Titulo 
+64; 64; 64;  	Grid - backColor
+------------------------------------------------------------------------------------
+205;38;38;	 	Pesquisa - Não Concluinte Cor
+24;116;205;	 	Pesquisa - Deletado Cor
+------------------------------------------------------------------------------------
+20;20;20;		Geral - BackColor Titulo, botão fechar
+245;245;245;	Geral - ForeColor Titulo, botão fechar 
+64; 64; 64;		Geral - Form background color 
+245;245;245;	Geral - labels foreColor 
+245;245;245; 	Geral - Botões forecolor 
+238;59;59;		Geral - Button Close Mouse Enter
+130;130;130;	Geral - Button Mini Mouse Enter
+245;245;245; 	Geral - Text/Masked Box N Selected BackColor
+0;0;0;		  	Geral - Text/Masked Box N Selected ForeColor
+24;116;205;  	Geral - Text/Masked Box Selected BackColor
+222;222;222;  	Geral - Text/Masked Box Selected ForeColor
+255;64;64;		Geral - label erro
+0;128;0;	 	Geral - Concluinte Cor
+139;35;35;	 	Geral - Não Concluinte Cor
+
+//Dark
+//Nome de todas as variaveis com seus respectivos codigo, na mesma ordem dos codigo acima ^^
+
+-----------------------------Menu
+* 1 - MenuBackTitulo
+* 2 - MenuForetitulo 
+* 3 - backBtnNS 
+* 4 - backBtnS 
+* 5 - ForelblReg 
+* 6 - ForeLblVersaoMenu
+-----------------------------MessageBox/Scaner
+* 8 - ForeBnt2
+* 9 - BackBtn 
+-----------------------------Ficha
+* 11 - BackTab
+* 12 - SelectArqBackColor
+-----------------------------Grid
+* 14 - GrdBackLineNS 
+* 15 - GrdForeLineNS 
+* 16 - GrdBackLineS 
+* 17 - GrdForeLineS 
+* 18 - GrdBackTitulo 
+* 19 - GrdForeTitulo
+* 20 - GridBackColor
+-----------------------------Pesquisa
+* 22 - PesqNConClu
+* 23 - PesqDel
+-----------------------------Geral
+* 25 - BackTitulo 
+* 26 - ForeTitulo 
+* 27 - BackForm
+* 28 - ForeLbl 
+* 29 - ForeBtn 
+* 30 - BtnCloseEnter
+* 31 - BtnMiniEnter
+* 32 - TxtNSelectBackColor
+* 33 - TxtNSelectForeColor
+* 34 - TxtSelectBackColor
+* 35 - TxtSelectForeColor
+* 36 - ForeLblError
+* 37 - FichaConcluCor
+* 38 - FichaNConcluCor
