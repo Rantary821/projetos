@@ -1,0 +1,13 @@
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\bin\Release\ScannerDemo.exe.config
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\bin\Release\ScannerDemo.exe
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\bin\Release\ScannerDemo.pdb
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\bin\Release\MySql.Data.dll
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\bin\Release\Interop.WIA.dll
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Release\ScannerDemo.csprojResolveAssemblyReference.cache
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Release\Interop.WIA.dll
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Release\ScannerDemo.csproj.ResolveComReference.cache
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Release\ScannerDemo.PScanner.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Release\ScannerDemo.Properties.Resources.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Release\ScannerDemo.csproj.GenerateResource.Cache
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Release\ScannerDemo.exe
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Release\ScannerDemo.pdb

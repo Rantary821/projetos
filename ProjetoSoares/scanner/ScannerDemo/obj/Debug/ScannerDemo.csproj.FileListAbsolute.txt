@@ -1,0 +1,81 @@
+C:\Users\Otavio\Desktop\csharp-scanner-wia-master\ScannerDemo\bin\Debug\ScannerDemo.exe.config
+C:\Users\Otavio\Desktop\csharp-scanner-wia-master\ScannerDemo\obj\Debug\Interop.WIA.dll
+C:\Users\Otavio\Desktop\csharp-scanner-wia-master\ScannerDemo\obj\Debug\ScannerDemo.csproj.ResolveComReference.cache
+C:\Users\Otavio\Desktop\csharp-scanner-wia-master\ScannerDemo\bin\Debug\ScannerDemo.exe
+C:\Users\Otavio\Desktop\csharp-scanner-wia-master\ScannerDemo\bin\Debug\ScannerDemo.pdb
+C:\Users\Otavio\Desktop\csharp-scanner-wia-master\ScannerDemo\bin\Debug\Interop.WIA.dll
+C:\Users\Otavio\Desktop\csharp-scanner-wia-master\ScannerDemo\obj\Debug\ScannerDemo.csprojResolveAssemblyReference.cache
+C:\Users\Otavio\Desktop\csharp-scanner-wia-master\ScannerDemo\obj\Debug\ScannerDemo.Form1.resources
+C:\Users\Otavio\Desktop\csharp-scanner-wia-master\ScannerDemo\obj\Debug\ScannerDemo.Properties.Resources.resources
+C:\Users\Otavio\Desktop\csharp-scanner-wia-master\ScannerDemo\obj\Debug\ScannerDemo.csproj.GenerateResource.Cache
+C:\Users\Otavio\Desktop\csharp-scanner-wia-master\ScannerDemo\obj\Debug\ScannerDemo.exe
+C:\Users\Otavio\Desktop\csharp-scanner-wia-master\ScannerDemo\obj\Debug\ScannerDemo.pdb
+C:\Users\Otavio\Desktop\scanner\ScannerDemo\bin\Debug\ScannerDemo.exe.config
+C:\Users\Otavio\Desktop\scanner\ScannerDemo\obj\Debug\Interop.WIA.dll
+C:\Users\Otavio\Desktop\scanner\ScannerDemo\obj\Debug\ScannerDemo.csproj.ResolveComReference.cache
+C:\Users\Otavio\Desktop\scanner\ScannerDemo\obj\Debug\ScannerDemo.exe
+C:\Users\Otavio\Desktop\scanner\ScannerDemo\obj\Debug\ScannerDemo.pdb
+C:\Users\Otavio\Desktop\scanner\ScannerDemo\bin\Debug\ScannerDemo.exe
+C:\Users\Otavio\Desktop\scanner\ScannerDemo\bin\Debug\ScannerDemo.pdb
+C:\Users\Otavio\Desktop\scanner\ScannerDemo\bin\Debug\Interop.WIA.dll
+C:\Users\Otavio\Desktop\scanner\ScannerDemo\obj\Debug\ScannerDemo.csprojResolveAssemblyReference.cache
+C:\Users\Otavio\Desktop\scanner\ScannerDemo\obj\Debug\ScannerDemo.Form1.resources
+C:\Users\Otavio\Desktop\scanner\ScannerDemo\obj\Debug\ScannerDemo.Properties.Resources.resources
+C:\Users\Otavio\Desktop\scanner\ScannerDemo\obj\Debug\ScannerDemo.csproj.GenerateResource.Cache
+C:\Users\Otavio\Desktop\Projetos c#\scanner\ScannerDemo\bin\Debug\ScannerDemo.exe.config
+C:\Users\Otavio\Desktop\Projetos c#\scanner\ScannerDemo\obj\Debug\Interop.WIA.dll
+C:\Users\Otavio\Desktop\Projetos c#\scanner\ScannerDemo\obj\Debug\ScannerDemo.csproj.ResolveComReference.cache
+C:\Users\Otavio\Desktop\Projetos c#\scanner\ScannerDemo\obj\Debug\ScannerDemo.exe
+C:\Users\Otavio\Desktop\Projetos c#\scanner\ScannerDemo\obj\Debug\ScannerDemo.pdb
+C:\Users\Otavio\Desktop\Projetos c#\scanner\ScannerDemo\bin\Debug\ScannerDemo.exe
+C:\Users\Otavio\Desktop\Projetos c#\scanner\ScannerDemo\bin\Debug\ScannerDemo.pdb
+C:\Users\Otavio\Desktop\Projetos c#\scanner\ScannerDemo\bin\Debug\Interop.WIA.dll
+C:\Users\Otavio\Desktop\Projetos c#\scanner\ScannerDemo\obj\Debug\ScannerDemo.csprojResolveAssemblyReference.cache
+C:\Users\Otavio\Desktop\Projetos c#\scanner\ScannerDemo\obj\Debug\ScannerDemo.PScanner.resources
+C:\Users\Otavio\Desktop\Projetos c#\scanner\ScannerDemo\obj\Debug\ScannerDemo.Properties.Resources.resources
+C:\Users\Otavio\Desktop\Projetos c#\scanner\ScannerDemo\obj\Debug\ScannerDemo.csproj.GenerateResource.Cache
+C:\Users\Otavio\Desktop\Projetos c#\ProjetoSoares\scanner\ScannerDemo\bin\Debug\ScannerDemo.exe.config
+C:\Users\Otavio\Desktop\Projetos c#\ProjetoSoares\scanner\ScannerDemo\obj\Debug\Interop.WIA.dll
+C:\Users\Otavio\Desktop\Projetos c#\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.csproj.ResolveComReference.cache
+C:\Users\Otavio\Desktop\Projetos c#\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.exe
+C:\Users\Otavio\Desktop\Projetos c#\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.pdb
+C:\Users\USUARIO\Desktop\ProjetoSoares\scanner\ScannerDemo\bin\Debug\ScannerDemo.exe.config
+C:\Users\USUARIO\Desktop\ProjetoSoares\scanner\ScannerDemo\bin\Debug\ScannerDemo.exe
+C:\Users\USUARIO\Desktop\ProjetoSoares\scanner\ScannerDemo\bin\Debug\ScannerDemo.pdb
+C:\Users\USUARIO\Desktop\ProjetoSoares\scanner\ScannerDemo\bin\Debug\MySql.Data.dll
+C:\Users\USUARIO\Desktop\ProjetoSoares\scanner\ScannerDemo\bin\Debug\Interop.WIA.dll
+C:\Users\USUARIO\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Debug\Interop.WIA.dll
+C:\Users\USUARIO\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.PScanner.resources
+C:\Users\USUARIO\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.exe
+C:\Users\USUARIO\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.pdb
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\bin\Debug\ScannerDemo.exe.config
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\bin\Debug\ScannerDemo.exe
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\bin\Debug\ScannerDemo.pdb
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\bin\Debug\MySql.Data.dll
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\bin\Debug\Interop.WIA.dll
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Debug\Interop.WIA.dll
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.csproj.ResolveComReference.cache
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.PScanner.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.Properties.Resources.resources
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.csproj.GenerateResource.Cache
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.exe
+C:\Users\Otavio\Desktop\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.pdb
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\scanner\ScannerDemo\bin\Debug\ScannerDemo.exe.config
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\scanner\ScannerDemo\bin\Debug\ScannerDemo.exe
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\scanner\ScannerDemo\bin\Debug\ScannerDemo.pdb
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\scanner\ScannerDemo\bin\Debug\MySql.Data.dll
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\scanner\ScannerDemo\bin\Debug\Interop.WIA.dll
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.csprojResolveAssemblyReference.cache
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\scanner\ScannerDemo\obj\Debug\Interop.WIA.dll
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.csproj.ResolveComReference.cache
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.PScanner.resources
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.Properties.Resources.resources
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.csproj.GenerateResource.cache
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.csproj.CoreCompileInputs.cache
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.csproj.CopyComplete
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.exe
+C:\Dropbox\Projetos c# - Backup\ProjetoSoares\scanner\ScannerDemo\obj\Debug\ScannerDemo.pdb
